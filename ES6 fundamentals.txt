@@ -1,0 +1,29 @@
+ES-6 Fundamentals
+
+
+JavaScript let - The let statement allows you to declare a variable with block scope.
+
+JavaScript const - The const statement allows you to declare a constant (a JavaScript variable with a constant value).
+Constants are similar to let variables, except that the value cannot be changed.
+
+JavaScript Arrow Functions - Arrow functions allows a short syntax for writing function expressions.
+You don't need the function keyword, the return keyword, and the curly brackets.
+
+JavaScript Classes - A class is a type of function, but instead of using the keyword function to initiate it, we use the keyword class, and the properties are assigned inside a constructor() method.Use the keyword class to create a class, and always add a constructor method.
+The constructor method is called each time the class object is initialized.
+
+Default parameter values - 
+Array.find()
+Array.findIndex()
+Exponentiation (**) 
+
+
+New Global Methods
+ES6 also added 2 new global number methods:
+
+isFinite()
+isNaN()
+
+
+AWS S3 Data Storage
+https://www.youtube.com/watch?v=XGcoeEyt2UM
